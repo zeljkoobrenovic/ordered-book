@@ -1,0 +1,20 @@
+manuscript/case-composable-movement.md
+  h_32d60cd4daf66e 212
+manuscript/export-manifest.json
+  h_32d60cd4daf66e 18-22,92,611,2970,2973-2974,2976-2978,2983,2992,3013,3384
+manuscript/introduction.md
+  h_32d60cd4daf66e 34,107,171,173,188,240,242
+manuscript/toolkit.md
+  h_32d60cd4daf66e 89,628
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "117ba81155002c07157541b0e2eb6e4258b2810f",
+  "prompts": {},
+  "humans": {
+    "h_32d60cd4daf66e": {
+      "author": "Zeljko Obrenovic <zeljkoobrenovic@yahoo.com>"
+    }
+  }
+}
