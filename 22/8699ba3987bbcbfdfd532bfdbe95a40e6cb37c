@@ -1,0 +1,16 @@
+manuscript/export-manifest.json
+  h_32d60cd4daf66e 2978,3379
+manuscript/section-13.md
+  h_32d60cd4daf66e 6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "228699ba3987bbcbfdfd532bfdbe95a40e6cb37c",
+  "prompts": {},
+  "humans": {
+    "h_32d60cd4daf66e": {
+      "author": "Zeljko Obrenovic <zeljkoobrenovic@yahoo.com>"
+    }
+  }
+}
