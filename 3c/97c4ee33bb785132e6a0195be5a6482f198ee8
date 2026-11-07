@@ -1,0 +1,169 @@
+.gitignore
+  s_ef3cef25da777d::t_401a51f4c0ac45 1-5
+manuscript/Book.txt
+  s_ef3cef25da777d::t_c3c138edf8822b 1-70
+manuscript/ai-and-agentic-commerce.md
+  s_ef3cef25da777d::t_a0ea94d265b0c8 1-308
+manuscript/api-contracts-and-versioning.md
+  s_ef3cef25da777d::t_034d1bd9f436d2 1-297
+manuscript/b2b-commerce.md
+  s_ef3cef25da777d::t_45142838f20a88 1-290
+manuscript/bibliography.md
+  s_ef3cef25da777d::t_c0d3fd4ad006bf 1-985
+manuscript/book-title.md
+  s_ef3cef25da777d::t_60a5267e6779c5 1-19
+manuscript/boundaries-and-systems-of-record.md
+  s_ef3cef25da777d::t_610e6ea51c8703 1-302
+manuscript/build-buy-or-assemble.md
+  s_ef3cef25da777d::t_033b30326a221d 1-289
+manuscript/cart-and-checkout.md
+  s_ef3cef25da777d::t_77bd21c1356294 1-297
+manuscript/case-amazon.md
+  s_ef3cef25da777d::t_46d19062b2b2f1 1-275
+manuscript/case-composable-movement.md
+  s_ef3cef25da777d::t_357bffa8d860df 1-257
+manuscript/case-shopify.md
+  s_ef3cef25da777d::t_a2382623a25908 1-294
+manuscript/case-zalando.md
+  s_ef3cef25da777d::t_556a148905da13 1-286
+manuscript/commerce-architecture-styles.md
+  s_ef3cef25da777d::t_5cf5decdf64baf 1-299
+manuscript/commerce-business-models.md
+  s_ef3cef25da777d::t_fdb78a66a6c04b 1-285
+manuscript/commerce-capability-map.md
+  s_ef3cef25da777d::t_d8856927346f2a 1-292
+manuscript/commerce-data-and-analytics.md
+  s_ef3cef25da777d::t_6efb9bc4256cb1 1-275
+manuscript/commerce-payments.md
+  s_ef3cef25da777d::t_931cd3f1c7ff4c 1-297
+manuscript/commerce-platform-landscape.md
+  s_ef3cef25da777d::t_e42c64f7a1b695 1-327
+manuscript/commerce-promotions.md
+  s_ef3cef25da777d::t_ce8185eb7b1ec1 1-312
+manuscript/commerce-regulation.md
+  s_ef3cef25da777d::t_abc35d8dc294ea 1-314
+manuscript/commerce-scaling-stages.md
+  s_ef3cef25da777d::t_bbbc385a7d657d 1-286
+manuscript/commerce-search-and-discovery.md
+  s_ef3cef25da777d::t_e5990df293c9f8 1-293
+manuscript/commerce-security.md
+  s_ef3cef25da777d::t_92d5ff743ee764 1-300
+manuscript/customer-service-and-notifications.md
+  s_ef3cef25da777d::t_309b5746ad6a78 1-305
+manuscript/domain-coverage.md
+  s_ef3cef25da777d::t_fbb9fc8d17830f 1-290
+manuscript/edi-and-e-invoicing.md
+  s_ef3cef25da777d::t_08f80e73188bd4 1-308
+manuscript/erp-and-back-office-integration.md
+  s_ef3cef25da777d::t_3b38baaa1032de 1-291
+manuscript/events-consistency-and-reconciliation.md
+  s_ef3cef25da777d::t_d57a1f8a740fbd 1-304
+manuscript/export-manifest.json
+  s_ef3cef25da777d::t_4c9da843835c81 1-3437
+manuscript/extensibility-and-app-ecosystems.md
+  s_ef3cef25da777d::t_894fcbdaf1eaef 1-317
+manuscript/glossary.md
+  s_ef3cef25da777d::t_c101451e74b61c 1-562
+manuscript/identity-and-master-data.md
+  s_ef3cef25da777d::t_68e21c5ddc64cd 1-328
+manuscript/integration-styles.md
+  s_ef3cef25da777d::t_7e6172e4465aad 1-299
+manuscript/introduction.md
+  s_ef3cef25da777d::t_32b8e124d51c19 1-242
+manuscript/inventory-and-availability.md
+  s_ef3cef25da777d::t_4c6980c8cb4dfc 1-308
+manuscript/journey-consumer-order.md
+  s_ef3cef25da777d::t_301dff1b74aefc 1-296
+manuscript/journey-of-an-order.md
+  s_ef3cef25da777d::t_1f64da0df892de 1-297
+manuscript/journey-peak-day.md
+  s_ef3cef25da777d::t_b4efbe04450a73 1-276
+manuscript/journey-return-and-exchange.md
+  s_ef3cef25da777d::t_d74ead275a8779 1-267
+manuscript/journey-wholesale-order.md
+  s_ef3cef25da777d::t_e23fbcd6b00366 1-300
+manuscript/marketplaces-and-channel-integration.md
+  s_ef3cef25da777d::t_13da4131dd70c2 1-318
+manuscript/meet-kestrel-and-pine.md
+  s_ef3cef25da777d::t_74f680681141b7 1-225
+manuscript/multi-tenancy-and-isolation.md
+  s_ef3cef25da777d::t_c83ca082e44cdc 1-281
+manuscript/order-management.md
+  s_ef3cef25da777d::t_bc57b9ddafade0 1-306
+manuscript/organizing-commerce-engineering.md
+  s_ef3cef25da777d::t_bb915541a5e361 1-297
+manuscript/part-1.md
+  s_ef3cef25da777d::t_03ec1a7a6a026e 1-59
+manuscript/part-10.md
+  s_ef3cef25da777d::t_e202f83fe0dc77 1-56
+manuscript/part-11.md
+  s_ef3cef25da777d::t_235f74615e8676 1-54
+manuscript/part-2.md
+  s_ef3cef25da777d::t_5f6ea754683a45 1-50
+manuscript/part-3.md
+  s_ef3cef25da777d::t_9e1fdb7e539bb6 1-50
+manuscript/part-4.md
+  s_ef3cef25da777d::t_8737984f96239e 1-57
+manuscript/part-5.md
+  s_ef3cef25da777d::t_aae1c25cea69ac 1-54
+manuscript/part-6.md
+  s_ef3cef25da777d::t_12f0368d52f490 1-57
+manuscript/part-7.md
+  s_ef3cef25da777d::t_209c850a6ccdc8 1-57
+manuscript/part-8.md
+  s_ef3cef25da777d::t_4d7581358071b1 1-53
+manuscript/part-9.md
+  s_ef3cef25da777d::t_254e2d71bc8037 1-56
+manuscript/peak-load-and-reliability.md
+  s_ef3cef25da777d::t_be4a6f948b71a0 1-297
+manuscript/pricing-architecture.md
+  s_ef3cef25da777d::t_d9914c958dc56e 1-304
+manuscript/privacy-and-customer-data.md
+  s_ef3cef25da777d::t_ecfa011b64c088 1-325
+manuscript/product-information.md
+  s_ef3cef25da777d::t_ebd3e66b408f61 1-297
+manuscript/replatforming-and-migration.md
+  s_ef3cef25da777d::t_045740218b7165 1-273
+manuscript/returns-and-exchanges.md
+  s_ef3cef25da777d::t_085be31f6d061f 1-265
+manuscript/section-01.md
+  s_ef3cef25da777d::t_b9e95ea6f7d46a 1-2
+manuscript/section-13.md
+  s_ef3cef25da777d::t_7d42476719afae 1-6
+manuscript/shipping-and-delivery.md
+  s_ef3cef25da777d::t_2595f67047aee4 1-295
+manuscript/storefront-architecture.md
+  s_ef3cef25da777d::t_24311da6a3ba0d 1-290
+manuscript/stores-and-omnichannel.md
+  s_ef3cef25da777d::t_dcb58dd7909f2d 1-302
+manuscript/tax-invoicing-and-ledger.md
+  s_ef3cef25da777d::t_bfbef932d92546 1-317
+manuscript/toolkit.md
+  s_ef3cef25da777d::t_b8637032e6f916 1-652
+manuscript/warehouse-and-fulfillment.md
+  s_ef3cef25da777d::t_71f51a9099fbdb 1-298
+manuscript/where-commerce-platforms-go-wrong.md
+  s_ef3cef25da777d::t_892f7d8df92533 1-522
+publish.sh
+  s_ef3cef25da777d::t_053ffbb7f700f1 1-8
+scripts/leanpub_build.py
+  s_ef3cef25da777d::t_97b0448fb79aff 1-128
+update.sh
+  s_ef3cef25da777d::t_2a97d8ed8455fc 1-13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "3c97c4ee33bb785132e6a0195be5a6482f198ee8",
+  "prompts": {},
+  "sessions": {
+    "s_ef3cef25da777d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "12bfd7f3-746f-4091-bfd9-b1ac7593d6a5",
+        "model": "unknown"
+      },
+      "human_author": "Zeljko Obrenovic <zeljkoobrenovic@yahoo.com>"
+    }
+  }
+}
