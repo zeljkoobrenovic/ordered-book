@@ -1,0 +1,142 @@
+manuscript/ai-and-agentic-commerce.md
+  h_32d60cd4daf66e 10,20,22,24,26,31,33-35,52,56,87-91,146-150
+manuscript/api-contracts-and-versioning.md
+  h_32d60cd4daf66e 20,22,24,26,31,33-37,109-113,156-163,181-185
+manuscript/b2b-commerce.md
+  h_32d60cd4daf66e 6,20,22,24,26,31,33-35,138-142,164-166,172-176
+manuscript/boundaries-and-systems-of-record.md
+  h_32d60cd4daf66e 12,20,22,24,26,31,42-44,85-87,153-157
+manuscript/build-buy-or-assemble.md
+  h_32d60cd4daf66e 20,22,24,26,31,33,37-39,90-96,211-215
+manuscript/cart-and-checkout.md
+  h_32d60cd4daf66e 20,22,24,26,162-166,181-185,216-220
+manuscript/case-amazon.md
+  h_32d60cd4daf66e 20,22,24,26,31,33,40-42,125-129,157-161
+manuscript/case-composable-movement.md
+  h_32d60cd4daf66e 20,22,24,26-28,33-35,37,69-73,94-98,180-182
+manuscript/case-shopify.md
+  h_32d60cd4daf66e 20,22,24-26,31,33,38,69-75
+manuscript/case-zalando.md
+  h_32d60cd4daf66e 20,22,24,26,31,33-35,56-60,177-181,201-203
+manuscript/commerce-architecture-styles.md
+  h_32d60cd4daf66e 20,22,24,26,31,33-35,93-97,106-110,115-119
+manuscript/commerce-business-models.md
+  h_32d60cd4daf66e 20,22,24-26,31,35-37,39,58-61,64-67,92,136,161,165-167,182
+manuscript/commerce-capability-map.md
+  h_32d60cd4daf66e 10,20,22,24,26,31,33,101-104,108-110,114,136,151-154,186-189,201-204,228,237-240
+manuscript/commerce-data-and-analytics.md
+  h_32d60cd4daf66e 20,22,24,26,31,45,62-66,77-81,113-117
+manuscript/commerce-payments.md
+  h_32d60cd4daf66e 20,22,24,26,31,33-35,170-174,227-231
+manuscript/commerce-platform-landscape.md
+  h_32d60cd4daf66e 20,22,24,26,31,33-37,224-228
+manuscript/commerce-promotions.md
+  h_32d60cd4daf66e 20,22,24,26-28,33,39,161-163
+manuscript/commerce-regulation.md
+  h_32d60cd4daf66e 20,22,24,29,36,52,105-109,231-237,242-248
+manuscript/commerce-scaling-stages.md
+  h_32d60cd4daf66e 20,22,24,26,31,33-35,61-65,149-157,159
+manuscript/commerce-search-and-discovery.md
+  h_32d60cd4daf66e 20,22,26,28,33,100-104,205-207
+manuscript/commerce-security.md
+  h_32d60cd4daf66e 18,20,22,24,26,31,33-35,66-70,110-112,183-185
+manuscript/customer-service-and-notifications.md
+  h_32d60cd4daf66e 20,22,24,26,31,33-35,51-53,79-81,175-179
+manuscript/edi-and-e-invoicing.md
+  h_32d60cd4daf66e 10,12,20,22,26,31,33-35,54-56,222-230,232
+manuscript/erp-and-back-office-integration.md
+  h_32d60cd4daf66e 6,20,22,24,26-28,33-35,37,47-49,129-131,209-213
+manuscript/events-consistency-and-reconciliation.md
+  h_32d60cd4daf66e 20,22,24,26,31,42-46,223-231,233
+manuscript/export-manifest.json
+  h_32d60cd4daf66e 29-92,880-893,943-949,964-984,992-998,3022-3023,3025-3027,3033-3035,3037-3089,3099,3103,3106,3110,3112-3114,3433,3436-3442
+manuscript/extensibility-and-app-ecosystems.md
+  h_32d60cd4daf66e 20,22,24,26,31-33,44-46,53-55,139-143,159-163
+manuscript/identity-and-master-data.md
+  h_32d60cd4daf66e 10,19,21,23,25,30,52,150-152,196-198,252-256
+manuscript/integration-styles.md
+  h_32d60cd4daf66e 11,20,22,24,26,31,33,123-127,198-202,204
+manuscript/introduction.md
+  h_32d60cd4daf66e 14,16,18,20,25,32,34,153-157,186-188
+manuscript/inventory-and-availability.md
+  h_32d60cd4daf66e 20,22,24,26,33-35,195-197
+manuscript/journey-consumer-order.md
+  h_32d60cd4daf66e 10-11,20,22,24,29-31,33,35,88-92,164-166,172-176
+manuscript/journey-of-an-order.md
+  h_32d60cd4daf66e 20,22,24,26,33-35,129-131,215-222
+manuscript/journey-peak-day.md
+  h_32d60cd4daf66e 10-12,20,22,24-26,31,33,53-57,77-79,155-157
+manuscript/journey-return-and-exchange.md
+  h_32d60cd4daf66e 20,26,28,33,35,37-41,166-170,174-180,217-221
+manuscript/journey-wholesale-order.md
+  h_32d60cd4daf66e 6,11-12,17,20,26,28,30,35,37-39,57-59,129-133,174-176
+manuscript/marketplaces-and-channel-integration.md
+  h_32d60cd4daf66e 20,22,24,26,31,33-37,130-134,177-181,228-232
+manuscript/meet-kestrel-and-pine.md
+  h_32d60cd4daf66e 14,16,18,23,25-27,36,74-78,125-127,203-209
+manuscript/multi-tenancy-and-isolation.md
+  h_32d60cd4daf66e 12,20,22,24,26,31,33,37-39,63-71,73
+manuscript/order-management.md
+  h_32d60cd4daf66e 12,17,20,22,24,26,33-35,48-50,78-82,234-238
+manuscript/organizing-commerce-engineering.md
+  h_32d60cd4daf66e 20,22,24,26,31,33-37,111-115,182-186,192-196
+manuscript/part-1.md
+  h_32d60cd4daf66e 10-12,14,20,22,31,33,35,37,39,43-46
+manuscript/part-10.md
+  h_32d60cd4daf66e 8-10,12,18,20,33,35,37,39,41
+manuscript/part-11.md
+  h_32d60cd4daf66e 8-10,12,14,16,33,35,37,39
+manuscript/part-2.md
+  h_32d60cd4daf66e 8-10,12,14,20,29,31,33,35,37
+manuscript/part-3.md
+  h_32d60cd4daf66e 8-10,12,14,20-22,31,33,35,37
+manuscript/part-4.md
+  h_32d60cd4daf66e 8-10,12,14,20-22,35,37,39,41,43
+manuscript/part-5.md
+  h_32d60cd4daf66e 8-10,12,18-20,22,35,37,39,41
+manuscript/part-6.md
+  h_32d60cd4daf66e 8-10,12,18,20,33,35,37,39,41
+manuscript/part-7.md
+  h_32d60cd4daf66e 8-10,12,14,16,18,35,37,39,41,43
+manuscript/part-8.md
+  h_32d60cd4daf66e 8-10,12,18,20,33,35,37
+manuscript/part-9.md
+  h_32d60cd4daf66e 8-10,12,18-20,22,24,37,39,41,43
+manuscript/peak-load-and-reliability.md
+  h_32d60cd4daf66e 10,20,22,24,29,31,36,101-105,163-170,190-192
+manuscript/pricing-architecture.md
+  h_32d60cd4daf66e 10-11,20,22,24,31,33-37,145-147,206-210
+manuscript/privacy-and-customer-data.md
+  h_32d60cd4daf66e 20,22,24,26,31,33,192-196,207-214,251-257
+manuscript/product-information.md
+  h_32d60cd4daf66e 10,12,20,22,24,29-31,41,79-84
+manuscript/replatforming-and-migration.md
+  h_32d60cd4daf66e 20,22,24,26,31,33,58-62,88-90,187-191
+manuscript/returns-and-exchanges.md
+  h_32d60cd4daf66e 20,22,24,26,31,33-37,85-89,128-132,161-165
+manuscript/shipping-and-delivery.md
+  h_32d60cd4daf66e 20,22,24,29,31-37,123-127,208-212
+manuscript/storefront-architecture.md
+  h_32d60cd4daf66e 12,20,22,24,26,31,33-37,107-111,132-134,151-157
+manuscript/stores-and-omnichannel.md
+  h_32d60cd4daf66e 20,22,24,26,31,33,35-45,141-145,165-169
+manuscript/tax-invoicing-and-ledger.md
+  h_32d60cd4daf66e 12,17,20,22,24,26,31,33-36,38-46,151-155,238-242
+manuscript/toolkit.md
+  h_32d60cd4daf66e 12,14,16,20-22,46,62,94,428,471,530
+manuscript/warehouse-and-fulfillment.md
+  h_32d60cd4daf66e 11-12,17,20,22,24,29,31,43-47,65-67,101-105,173-177
+manuscript/where-commerce-platforms-go-wrong.md
+  h_32d60cd4daf66e 14,16,18,23,57,61-63,155-157,341-343
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "ca56de9b055e2510f9e096fc0f4ad6c544ce3805",
+  "prompts": {},
+  "humans": {
+    "h_32d60cd4daf66e": {
+      "author": "Zeljko Obrenovic <zeljkoobrenovic@yahoo.com>"
+    }
+  }
+}
